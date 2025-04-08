@@ -29,7 +29,7 @@ A visually interactive Power BI dashboard analyzing sales performance, outlet di
 ## 📂 File Contents
 
 - `blinkit_dashboard.pbix` – Power BI dashboard file.
-- `PBIDesktop_view.png` – Preview image of the dashboard.
+- `PBIDesktop_view.pdf` – Preview image of the dashboard.
 - `blinkit_icon` – App icon used in the dashboard.
 - `dashboard_bg.jpg` – Background image used for styling.
 - `BlinkIT Grocery Data.csv` – Dataset used for data visualization.
@@ -38,7 +38,7 @@ A visually interactive Power BI dashboard analyzing sales performance, outlet di
 
 ## 📸 Dashboard Preview
 
-![Blinkit Power BI Dashboard](PBIDesktop_hnyENy3yfc.png)
+![Blinkit Power BI Dashboard](PBIDesktop_view.pdf)
 
 ---
 
@@ -70,9 +70,9 @@ A visually interactive Power BI dashboard analyzing sales performance, outlet di
 ## 📬 Contact
 
 For any queries or collaborations:  
-📧 [YourEmail@example.com]  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-📁 [Portfolio](https://yourportfolio.com)
+📧 [singhanirudh1804@gmail.com]  
+💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+
 
 ---
 
