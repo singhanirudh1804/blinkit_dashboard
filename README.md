@@ -32,7 +32,7 @@ A visually interactive Power BI dashboard analyzing sales performance, outlet di
 - `PBIDesktop_hnyENy3yfc.png` – Preview image of the dashboard.
 - `blinkit_icon` – App icon used in the dashboard.
 - `dashboard_bg.jpg` – Background image used for styling.
-- `blinkit_dataset.csv` – Dataset used for data visualization.
+- `BlinkIT Grocery Data.csv` – Dataset used for data visualization.
 
 ---
 
